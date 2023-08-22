@@ -14,4 +14,5 @@ pip install Pillow (with this library we can take input pictures for our profile
 Instead of hard coding your email ID and pass word to in order to enable Django to talk to your gmail account set the credentials as a environment variable and then pass it to the code
 
 Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows)
+
 Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux)--> This tutorial will be helpful
