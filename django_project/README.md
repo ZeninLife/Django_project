@@ -1,4 +1,4 @@
-# DjangoBlog_App
+# DjangoBlog_App delete this repo
 A Django blog application
 
 With functionalities like user login/logout into your account, create, update, delete posts view posts made by other users udpate your profile details and change password through mail.
